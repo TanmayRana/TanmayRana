@@ -180,42 +180,33 @@ const tanmay = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanmayRana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=TanmayRana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayRana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TanmayRana&theme=tokyonight&hide_border=true)
+
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayRana&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800&exclude_repo=TanmayRana" alt="Top Languages" />
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayRana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanmayRana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TanmayRana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
-<!-- Alternative Stats if above doesn't work -->
-<!--
-<div align="center">
-  <a href="https://github.com/TanmayRana">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanmayRana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TanmayRana&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
 </div>
--->
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayRana&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</div>
+  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=TanmayRana&theme=tokyo-night&hide_border=true&area=true)
 
-<!-- Alternative Activity Graph -->
-<!--
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=TanmayRana&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 </div>
--->
 
 ---
 
