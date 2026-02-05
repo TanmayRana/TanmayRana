@@ -208,7 +208,7 @@ const tanmay = {
 
 </div>
 
----
+<!-- ---
 
 ## 🐍 Contribution Snake
 
@@ -220,7 +220,7 @@ const tanmay = {
   </picture>
 </div>
 
----
+--- -->
 
 ## 🏆 Achievements & Certifications
 
