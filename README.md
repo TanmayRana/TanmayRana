@@ -280,7 +280,7 @@ I'm always interested in collaborating on exciting projects, especially in:
   <a href="mailto:tanmayrana2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/tanmay-rana">
+  <a href="https://www.linkedin.com/in/tanmay-rana-717970244/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/TanmayRana">
