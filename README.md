@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tanmay%20Rana&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
-<!-- 95%25+User+Satisfaction+%E2%AD%90 -->
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+Production+SaaS+%F0%9F%92%BB)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Building+Production+SaaS+%F0%9F%92%BB;95%25+User+Satisfaction+%E2%AD%90)](https://git.io/typing-svg)
   
 </div>
 
@@ -75,7 +74,7 @@ const tanmay = {
           <img src="https://img.shields.io/badge/Demo-Live-success?style=for-the-badge&logo=vercel" alt="Live Demo"/>
         </a>
         <p><strong>Next.js, Tailwind CSS, Clerk, Neon DB, Imgtest, Gemini AI</strong></p>
-        <p>Full-stack career coaching platform with Resume Analyzer, Cover Letter Generator, and AI chatbot serving. Implemented secure authentication and PostgreSQL database with session tracking, boosting retention by 60%.</p>
+        <p>Full-stack career coaching platform with Resume Analyzer, Cover Letter Generator, and AI chatbot serving 300+ users with 95% satisfaction. Implemented secure authentication and PostgreSQL database with session tracking, boosting retention by 60%.</p>
       </div>
     </td>
     <td width="50%">
@@ -181,25 +180,42 @@ const tanmay = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanmayRana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanmayRana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TanmayRana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=TanmayRana&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayRana&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayRana&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800&exclude_repo=TanmayRana" alt="Top Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TanmayRana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
+<!-- Alternative Stats if above doesn't work -->
+<!--
+<div align="center">
+  <a href="https://github.com/TanmayRana">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TanmayRana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TanmayRana&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</div>
+-->
+
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayRana&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmayRana&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </div>
+
+<!-- Alternative Activity Graph -->
+<!--
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=TanmayRana&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+-->
 
 ---
 
@@ -280,7 +296,7 @@ I'm always interested in collaborating on exciting projects, especially in:
   <a href="mailto:tanmayrana2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's%20Talk-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/tanmay-rana-717970244/">
+  <a href="https://linkedin.com/in/tanmay-rana">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/TanmayRana">
@@ -290,7 +306,7 @@ I'm always interested in collaborating on exciting projects, especially in:
 
 </div>
 
-<!-- ---
+---
 
 ## 💭 Random Dev Quote
 
@@ -298,7 +314,7 @@ I'm always interested in collaborating on exciting projects, especially in:
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div> -->
+</div>
 
 ---
 
