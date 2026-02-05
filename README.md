@@ -289,7 +289,7 @@ I'm always interested in collaborating on exciting projects, especially in:
 
 </div>
 
----
+<!-- ---
 
 ## 💭 Random Dev Quote
 
@@ -297,7 +297,7 @@ I'm always interested in collaborating on exciting projects, especially in:
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-</div>
+</div> -->
 
 ---
 
