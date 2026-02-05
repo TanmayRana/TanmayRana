@@ -175,7 +175,7 @@ const tanmay = {
 
 </div>
 
----
+<!-- ---
 
 ## 📊 GitHub Statistics
 
@@ -184,7 +184,7 @@ const tanmay = {
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayRana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=TanmayRana&theme=tokyonight&hide_border=true)
 
-</div>
+</div> -->
 
 <div align="center">
   
