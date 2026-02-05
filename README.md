@@ -186,7 +186,7 @@ const tanmay = {
 
 </div> -->
 
-<div align="center">
+<!-- <div align="center">
   
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayRana&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
@@ -196,9 +196,9 @@ const tanmay = {
   
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TanmayRana&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ## 📈 Contribution Graph
 
