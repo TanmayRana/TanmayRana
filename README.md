@@ -1,4 +1,8 @@
-# Hi there, I'm Tanmay Rana! 👋
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=F7DF1E&width=435&lines=Hi+there,+I'm+Tanmay+Rana!+👋;Full-stack+Developer;AI+Specialist;Tech+Enthusiast" alt="Typing SVG" />
+
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=TanmayRana&color=blueviolet&style=flat-square" alt="Visitor Count" />
+</div>
 
 ## Full-stack Developer | AI & Modern Web Specialist 🚀
 
@@ -24,6 +28,14 @@ I am a passionate Full-stack developer specializing in building AI-powered web a
 - **[AI Career Coach Agent](https://github.com/TanmayRana)**: Full-stack career coaching platform with Resume Analyzer, Cover Letter Generator, and AI chatbot. (Next.js, Tailwind, Clerk, Inngest, Gemini AI)
 - **[AI Interview Assistant](https://github.com/TanmayRana)**: AI-powered interview platform helping HR teams reduce screening time by 70%. (Next.js, Supabase, Gemini AI)
 - **[MicroCRM](https://github.com/TanmayRana)**: Enterprise CRM system for small businesses managing 1,000+ customers. (Next.js 15, Prisma, PostgreSQL, Razorpay, Stripe)
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TanmayRana&theme=radical&no-frame=true&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
